@@ -1,2 +1,23 @@
-# CodeAlpha_Hotel-Reservation-System
-Hotel Reservation System is a Java console-based application that manages hotel room bookings efficiently. It supports room categories such as AC, Non-AC, and Deluxe, allows users to book and cancel rooms, simulates payments, and stores booking details using file handling while applying OOP principles.
+# Hotel Reservation System (Java)
+
+## Description
+A console-based Hotel Reservation System developed using Java and Object-Oriented Programming principles.
+
+## Features
+- Room categorization (AC / Non-AC / Deluxe)
+- Room booking and cancellation
+- Payment simulation
+- File-based booking storage
+
+## Technologies Used
+- Java
+- OOP Concepts
+- File Handling
+
+## How to Run
+1. Clone the repository
+2. Compile all Java files
+3. Run Main.java
+
+## Author
+Preethi Ravi
